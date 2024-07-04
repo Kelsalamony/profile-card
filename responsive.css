@@ -1,0 +1,32 @@
+@media (max-width: 375px) {
+    card {
+ 
+        margin: 20px;
+        overflow-x: hidden;
+ 
+    }
+}
+@media (max-width: 576px) {
+    card {
+ 
+        margin: 40px;
+        overflow-x: hidden;
+ 
+    }
+}
+@media (max-width: 768px) {
+    card {
+ 
+        margin: 60px;
+        overflow-x: hidden;
+ 
+    }
+}
+@media (max-width: 992px) {
+    card {
+ 
+        margin: 100px;
+        overflow-x: hidden;
+ 
+    }
+}
